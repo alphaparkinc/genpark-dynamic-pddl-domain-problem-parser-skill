@@ -1,0 +1,15 @@
+{
+  "name": "genpark-dynamic-pddl-domain-problem-parser-skill",
+  "version": "1.0.0",
+  "description": "Parses PDDL domains, action schemas, and problem goals into structured JSON AST objects.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "pddl",
+    "pddl-parser",
+    "domain-problem",
+    "automated-planning",
+    "ast-parser"
+  ]
+}
